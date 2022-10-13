@@ -1,0 +1,1 @@
+"/Applications/wechatwebdevtools.app/Contents/MacOS/cli" cloud functions deploy --e cloud1-2g252t62fef9c7df --n quickstartFunctions --r --project "/Users/zlwei/WeChatProjects/MetaIsland" --report_first --report

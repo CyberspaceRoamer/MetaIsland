@@ -1,0 +1,13 @@
+<view >
+    <view class="cover">
+        <image src="/images/avatar.png" class="logo" />
+    </view>
+    <view class="title">Hi~Welcome to MetaIsland!</view>
+    <view class="desc">This is MetaIsland v1-version</view>
+    <view class="choose">
+        <navigator class="join" url="pages/form/index">createGroup</navigator>
+        <navigator class="join" url="pages/list/index">joinGroup</navigator>
+        <navigator class="join" url="pages/tip/index">otherGroup</navigator>
+        <navigator class="join" url="pages/group/index">myGroup</navigator>
+    </view>
+</view>
